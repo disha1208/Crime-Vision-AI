@@ -61,3 +61,6 @@ dist/
 Thumbs.db
 .vscode/
 .idea/
+push_to_github.bat
+push_to_github.ps1
+
